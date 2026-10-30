@@ -15,3 +15,20 @@ Size: 32916
 MD5sum: 2b3c643dc1f54dca7f134ba0e999e8f5
 SHA256: e19348524b3d6133733a3fd1d0eaac70d4a483bab87b41f0ea67c984a851e1b7
 
+Package: organizarquivo
+Version: 0.3.0
+Architecture: all
+Maintainer: Eduardo <eduardozitinho1@users.noreply.github.com>
+Section: utils
+Priority: optional
+Homepage: https://github.com/eduardozitinho1/organizarquivo
+Depends: python3
+Description: Organize files automatically into folders based on their extensions
+ Organizarquivo moves files into Documents, Images, Videos, Archives, Code
+ and other categories. Supports undo, dry-run, recursive mode and a config
+ file.
+Filename: pool/main/o/organizarquivo/organizarquivo_0.3.0_all.deb
+Size: 33048
+MD5sum: 97697108d11779149cfcd2ab9f7e819d
+SHA256: 0e013c8781961af04cb4f11de2e4cb127f04dc2f44ccf629912c0878d8046bc1
+

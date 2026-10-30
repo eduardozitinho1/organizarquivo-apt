@@ -4,16 +4,16 @@ Suite: termux
 Codename: termux
 Architectures: all
 Components: main
-Date: Fri, 30 Oct 2026 22:24:45 UTC
+Date: Fri, 30 Oct 2026 22:35:16 UTC
 MD5Sum:
- c8f443474759f66031d79973cd963fac 550 main/binary-all/Packages
- cbb0d47db48ceb9de68b90a22e6ac7b1 389 main/binary-all/Packages.gz
+ eaa378ecbfefe262b152a8980a14fa01 1100 main/binary-all/Packages
+ 849b528d3ad5d602d0d81ed14d61a7a5 478 main/binary-all/Packages.gz
 SHA1:
- e6fe775bd9e7ef89eaf32832d2dbba67ea337dcd 550 main/binary-all/Packages
- e94b8db915a8ead5f3ef8d3ff45fa1ab35eeee1c 389 main/binary-all/Packages.gz
+ 789220a1c8c713d3894c92ecaa3e3ffadbbca907 1100 main/binary-all/Packages
+ c032b99b43224fb3664beb0a85b9e51b88875d1e 478 main/binary-all/Packages.gz
 SHA256:
- f1fbb2222b275cc3093d6fa1486a9124d44772049091ba03bb5ddc71ea4977da 550 main/binary-all/Packages
- 7fb26770bc303d2cc339591f3b0e73c3ba92449bfee523d291436938dfc48fef 389 main/binary-all/Packages.gz
+ 7e34e8117b2202fd67a47206638f426dba9a3b088b3948bee03cd3890a48c77b 1100 main/binary-all/Packages
+ 8ba88062a7321f7da75ee0ebc6e2b2100127ec5450b0147f17c3e40e5621017a 478 main/binary-all/Packages.gz
 SHA512:
- 93888b115a9a1286bbaa346340f3e0e67350dd4ec0377adc38b38d42898836a9f389d9e25c3f54e7b5577b4a61e4b142f5c90e8a9ba8531fd725e8403cd453e9 550 main/binary-all/Packages
- d12484b5065cf70f14fafe78d3dc115f985e9d61188ff6f5e7c12a715097618589cc7493b3866af55a7a9ede818b4d6ac9aecb070c69f7ffdee32fa9df8fb622 389 main/binary-all/Packages.gz
+ 96835d0eed62497f01281c6aa39b9224e5c3de19391cb40a2f1e6600d05163b3f4f82ceaa89d8ef088104c863c66c82f9e2f9fd019ecce94bfdacf867fa295a3 1100 main/binary-all/Packages
+ c7dc07a6949ed8ac1eedb1c85f96a036967d0655f84c12e94ad360d235473915001c2855df73e82e2eca8fefc36793a840041a27c9e20b47c5ed5fab6e6337cb 478 main/binary-all/Packages.gz
