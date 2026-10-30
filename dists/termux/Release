@@ -1,0 +1,19 @@
+Origin: organizarquivo
+Label: organizarquivo
+Suite: termux
+Codename: termux
+Architectures: all
+Components: main
+Date: Fri, 30 Oct 2026 22:24:45 UTC
+MD5Sum:
+ c8f443474759f66031d79973cd963fac 550 main/binary-all/Packages
+ cbb0d47db48ceb9de68b90a22e6ac7b1 389 main/binary-all/Packages.gz
+SHA1:
+ e6fe775bd9e7ef89eaf32832d2dbba67ea337dcd 550 main/binary-all/Packages
+ e94b8db915a8ead5f3ef8d3ff45fa1ab35eeee1c 389 main/binary-all/Packages.gz
+SHA256:
+ f1fbb2222b275cc3093d6fa1486a9124d44772049091ba03bb5ddc71ea4977da 550 main/binary-all/Packages
+ 7fb26770bc303d2cc339591f3b0e73c3ba92449bfee523d291436938dfc48fef 389 main/binary-all/Packages.gz
+SHA512:
+ 93888b115a9a1286bbaa346340f3e0e67350dd4ec0377adc38b38d42898836a9f389d9e25c3f54e7b5577b4a61e4b142f5c90e8a9ba8531fd725e8403cd453e9 550 main/binary-all/Packages
+ d12484b5065cf70f14fafe78d3dc115f985e9d61188ff6f5e7c12a715097618589cc7493b3866af55a7a9ede818b4d6ac9aecb070c69f7ffdee32fa9df8fb622 389 main/binary-all/Packages.gz

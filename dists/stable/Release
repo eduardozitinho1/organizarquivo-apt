@@ -1,0 +1,19 @@
+Origin: organizarquivo
+Label: organizarquivo
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Date: Fri, 30 Oct 2026 22:24:45 UTC
+MD5Sum:
+ 2d948ed419509fad304f9a2f93e5f7ef 662 main/binary-all/Packages
+ 9b2bad26c06ff36e49b5e8ba65f0977e 456 main/binary-all/Packages.gz
+SHA1:
+ 11acff810ee07d7818339dc152acf86600221877 662 main/binary-all/Packages
+ 3c8d7f0942444ba28b56d86e2351dd8c68f39c4a 456 main/binary-all/Packages.gz
+SHA256:
+ b1590251c3cfad66abb872594ce4819d1a73bea044c906529fc8204052faaa9a 662 main/binary-all/Packages
+ 01168f97e04482fe6f16b035a80a1c516b0ee57a9a0ab4c58373c2ca4f6e4f8e 456 main/binary-all/Packages.gz
+SHA512:
+ fe27554120159b2318c33f0b6df3f1db94a136b30571e4c3f5ba3bb22dc3d89e6eba4e2908d3c2362688dcabe535de6e37dd61e71859fd9d97ea9cd019016578 662 main/binary-all/Packages
+ df568bb66deb79091048087f37b0801244eee3e755c10f201bcd60f61fc9ac706f382cd54255c9e316e87257cfcad71fb9ce1472fdffc50cd428b59356ac7698 456 main/binary-all/Packages.gz

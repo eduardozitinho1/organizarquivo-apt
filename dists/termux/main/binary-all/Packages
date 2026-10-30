@@ -1,0 +1,15 @@
+Package: organizarquivo-termux
+Version: 0.2.0
+Architecture: all
+Maintainer: Eduardo <eduardozitinho1@users.noreply.github.com>
+Section: utils
+Priority: optional
+Homepage: https://github.com/eduardozitinho1/organizarquivo
+Depends: python
+Description: Organize files into folders (Termux build)
+ Termux build of organizarquivo. Installs under $PREFIX.
+Filename: pool/main/o/organizarquivo/organizarquivo-termux_0.2.0_all.deb
+Size: 32832
+MD5sum: 586e6e0b5d664d7e41424496e9d52b52
+SHA256: 8ac3380d2fbc8c77a7ec69230b1e96e92a059dc92bc88e800a9a820cf1cc5e00
+
